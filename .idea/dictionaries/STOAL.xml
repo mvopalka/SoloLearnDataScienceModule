@@ -3,9 +3,14 @@
     <words>
       <w>crim</w>
       <w>ggplot</w>
+      <w>gscv</w>
+      <w>hyperparameter</w>
       <w>medv</w>
       <w>ptratio</w>
       <w>rmse</w>
+      <w>setosa</w>
+      <w>versicolor</w>
+      <w>virginica</w>
     </words>
   </dictionary>
 </component>
